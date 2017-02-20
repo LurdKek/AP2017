@@ -10,7 +10,7 @@ This is my attempt at mini_ex02 for Aesthetic programming AU
 
 <h2> <b> <i>My coding process</h2> </b> </i>
 
-<h2> <b> <i>What constitute a program?</h2> </b> </i>
+<h2> <b> <i>What constitutes a program?</h2> </b> </i>
 
 
 <h2> <b> <i>The notion of error</h2> </b> </i>
