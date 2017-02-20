@@ -9,7 +9,7 @@ This is my attempt at mini_ex02 for Aesthetic programming AU
 <b>Landscape</b> is the "final" product, and how I inteded the code to be originally (I later added some extra code, just for the sake of learning).
 
 <h2> <b> <i>My coding process</h2> </b> </i>
-My coding excperience has been great. Through a lot of trial end error, I have slowly but steadily learned the basic functionality and structure of p5.js and (I hope) other coding-languages, although latter is in a more general form. My personal "spirit" revolving coding is still strong, and only growing. Set aside the more practical notion af learning to code in an increasingly electronic and computational reality, I also feel enlightened in regard of understanding the impact of codes (i.e. algorithms, syntaxes and values in coding) on our culture and society.
+My coding excperience has been great. Through a lot of trial end error, I have slowly but steadily learned the basic functionality and structure of p5.js and (I hope) other coding-languages, although latter is in a more general form. My personal "spirit" revolving coding is still strong, and only growing. Set aside the more practical notion af learning to code in an increasingly electronic and computational reality, I also feel enlightened in regard of understanding the impact of codes (i.e. algorithms, syntaxes and values in coding) on our culture and society; and the values and ideals behind them.
 
 Interesting and relevant indeed!
 
