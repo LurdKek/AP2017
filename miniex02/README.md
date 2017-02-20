@@ -18,7 +18,7 @@ My coding excperience has been great. Through a lot of trial end error, I have s
 Interesting and relevant indeed!
 
 <h2> <b> <i>What constitutes a program?</h2> </b> </i>
-A program is a set of algorithms set to perform a specifik task. These tasks can be very simple or very complex - or anywhere in between the two. Programs also defines the (rising) necessity of interfaces; between humans and programs, as well as between two or more electronic or computational devices.
+A program is a set of algorithms set to perform a specifick task. These tasks can be very simple or very complex - or anywhere in between the two. Programs also defines the (rising) necessity of interfaces; between humans and programs, as well as between two or more electronic or computational devices.
 
 
 <h2> <b> <i>The notion of error</h2> </b> </i>
