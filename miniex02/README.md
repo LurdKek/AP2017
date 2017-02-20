@@ -2,7 +2,7 @@ This is my attempt at mini_ex02 for Aesthetic programming AU
 
 <h2> <b> <i>The three projects of Miniex02</h2> </b> </i>
 
-<b>Glitch-clouds</b> [ https://lurdkek.github.io/AP2017/miniex02/glitch-clouds/ ]
+<b>Glitch-clouds</b> [ https://lurdkek.github.io/AP2017/miniex02/glitch-cloud/ ]
 was the first glitch I encountered, trying to make the clouds move along the Y-axis, and reappearing at the beginning at the x-axis with a random account of the y-axis for each "reset" of the x-axis. An error in the code resulted in a glitch that made the clouds bounce randomly amongst the random set interval of coordinates on the y-axis <i>during</i> the progression of the clouds on the x-axis, instead of setting the random placement of the clouds on the y-axis at the beginning only.
 
 <b>Coolglitch</b> [ https://lurdkek.github.io/AP2017/miniex02/coolglitch/ ]
