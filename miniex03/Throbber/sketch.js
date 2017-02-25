@@ -12,6 +12,11 @@ function setup() {
 function draw() {
     //var tnum = map(rad, 100, 300, 30, 60);
     var tnum = 75
+    
+    if(mouseIsPressed){
+        tnum = map(rad, 100, 200, 75, 150); //turn on by mouseclick
+    }
+    
     fill(10, 10);
     rect(0, 0, width, height);
     drawThrobber(tnum);
@@ -24,9 +29,9 @@ function drawThrobber(num) {
     translate(width/2, height/2);
     
     var cir = 1440/num*(frameCount%num);
-    var r = map(rad, 0, 1440, 10, 255);
-    var g = map(rad, 0, 2880, 150, 255);
-    var b = map(rad, 100, 410, 255, 0);
+    var r = map(rad, 100, 200, 50, 220);
+    var g = map(rad, 100, 200, 200, 50);
+    var b = map(rad, 100, 200, 0, 50);
     
     rad = rad+radAdd;
     rotate(radians(cir));
@@ -38,5 +43,6 @@ function drawThrobber(num) {
     } else if(rad <= 100) {
         radAdd = +1
     }
+    
     pop(); //pga. translate
 }
