@@ -16,7 +16,7 @@ function draw() {
     textSize(50);
     fill(100, transpar);
     textAlign(CENTER);
-    text("IF U PUSH ME I GET NERVOUS", 0, 0);
+    text("IF U PUSH ME I'LL GET NERVOUS", 0, 0);
     pop();
     
     //var tnum = map(rad, 100, 300, 30, 60);
@@ -52,7 +52,7 @@ function drawThrobber(num) {
     arc(rad, 35, sizeW, sizeH, PI, PI+QUARTER_PI);
     if (rad >= 200) {
         radAdd = -1
-        transpar -= 10
+        transpar -= 25
     } else if(rad <= 25) {
         radAdd = +1
         transpar = 50
