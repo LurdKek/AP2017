@@ -10,17 +10,19 @@ function setup() {
 }
 
 function draw() {
+    push();
+    translate(width/2, 50);
     textSize(50);
-    fill(100, 20);
-    text("IF U PUSH ME I GET NERVOUS", 50, 50);
+    fill(100, 50);
+    textAlign(CENTER);
+    text("IF U PUSH ME I GET NERVOUS", 0, 0);
+    pop();
     
     //var tnum = map(rad, 100, 300, 30, 60);
     var tnum = 75
-    
-    if(mouseIsPressed){
+        if(mouseIsPressed){
         tnum = map(rad, 100, 200, 75, 150); //turn on by mouseclick
-        
-    }
+        }
     
     fill(10, 10);
     rect(0, 0, width, height);
