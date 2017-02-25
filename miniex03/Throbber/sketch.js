@@ -10,10 +10,11 @@ function setup() {
 }
 
 function draw() {
+    var transpar = 50;
     push();
     translate(width/2, 50);
     textSize(50);
-    fill(100, 50);
+    fill(100, transpar);
     textAlign(CENTER);
     text("IF U PUSH ME I GET NERVOUS", 0, 0);
     pop();
@@ -51,8 +52,10 @@ function drawThrobber(num) {
     arc(rad, 35, sizeW, sizeH, PI, PI+QUARTER_PI);
     if (rad >= 200) {
         radAdd = -1
+        transpar += 5
     } else if(rad <= 25) {
         radAdd = +1
+        transpar = 50
     }
     
     pop(); //pga. translate
