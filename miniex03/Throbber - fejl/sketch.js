@@ -26,7 +26,7 @@ function drawThrobber(num) {
     var r = map(cir, 1, 1440, 50, 255);
     var g = map(cir, 1, 1440, 0, 50);
     var b = map(cir, 1, 1440, 175, 0);
-    var map = 100;
+    var rad = 100;
     //var rad = map(cir, 1, 360, 100, 300);
     rotate(radians(cir));
     noStroke();
