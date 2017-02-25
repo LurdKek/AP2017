@@ -52,7 +52,7 @@ function drawThrobber(num) {
     arc(rad, 35, sizeW, sizeH, PI, PI+QUARTER_PI);
     if (rad >= 200) {
         radAdd = -1
-        transpar += 10
+        transpar -= 10
     } else if(rad <= 25) {
         radAdd = +1
         transpar = 50
