@@ -5,7 +5,7 @@
 ![screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex03/Capture02.PNG?raw=true);
 
 <b> <h3>About</h3> </b>
-When I first began to the first iterations of how to make my throbber, I didn't have any particular idea in mind, set aside the mere aspect of learning the code behind. I started by copying the base-code given to us by the lecturer, and attempted to "reverse-engineer" the code (at least the understanding of it), to better learn the functions of the syntaxes and how they connect to one-another.
+When I began the first iterations of how to make my throbber, I didn't have any particular idea in mind, set aside the mere aspect of learning the code behind. I started by copying the base-code given to us by the lecturer, and attempted to "reverse-engineer" the code (at least the understanding of it), to better learn the functions of the syntaxes and how they connect to one-another.
 
 After the initial process of understandig the code and its syntaxes I began experimenting with the shape of the "throbber-parts" (i.e. the circle in Winnies throbber). Browsing through the reference-page on p5's webpage I decided to create an arc-shape (also being interested in the PI and PI/2 parameters, yet to be fully understood by my not-so-mathematical brain).
 
