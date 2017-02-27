@@ -13,6 +13,19 @@ When the shape of the throbber was done and coded into the throbber-design, I be
 
 Through the process I encountered some problems with the mapping, which led to some interesting results. I then added that dysfunctional map-function to a mousePressed function, making it "nervous" when the mouse is "pushed" (thus the name). I found this to be a rather interesting comment on the theory of micro-contemporality and all of the micro-processing that goes on "behind" the throbber (when used in it's normal context). 
 
-A throbber is made to make time feeel constant, and make to user wait for something to happen within an undefined amount of time. Thus making the throbber "nervous" strives against the temporary-focus of the ordinary throbber and forces the user to think about the falseness that a throbber emmits in it's connotations.
+A throbber is made to make time feeel constant, and make to user wait for something to happen within an undefined amount of time. Thus making the throbber "nervous" strives against the temporarity-focus of the ordinary throbber and forces the user to think about the falseness that a throbber emmits in it's connotations to absolute fluent processes happening in the moment (which is false).
 
+<h3> <b> Coding in digital culture </b> </h3>
+As a person who enjoys art myself (watching as well as creating art - digitally especially) I find this a rather intriquing subject to discuss. To understand code is (simply put) to understand the underlying building-blocks and structure of contemporary, digital culture. On this note, it is also important to understand, that any given code is a result of a person(s) that has written that code; values, ideals and the general process of execution. As <i>Walter Benjamin (1936)</i> would put it, it is to understand the production-mechanism behind the culture / cultural piece. 
 
+<b>So why is this important?</b>
+
+Art is reflection of society, or (maybe even more important on this notion) as Oscer Wilde put it <i>"Life imitates art far more than art imitates life".</i> Regardless, the aesthetic culture of society is a reflection or imitation (regardless of whom imitates who) on society, and digital culture is no exception. Thus coding offers an insight into the status of contemporary culture and thereby society.
+
+Here the theme of this post "the throbber" is a good example. It is a direct reflection upon a society (at least in western culture) that has no time - no chill; a culture where patience is a rare commodity. We simply don't have the time nor the patiense to wait for the computational processes to finish up - the reason why the throbber is popular is because it doesn't offer an insight into how far the loading-process is in a givent moment, it just keeps spinning without any signifiers for the current length of the process.
+Before coninuing, I wan't to adress one questin: Which came first, the hen or the egg?
+I.e. did this impatient culture we experience today come as a result of the fast-paced interfaces we experience today, or vice versa?
+
+If we assume the former, a look into the code of the throbber would also explain the actual process and reason of the throbber being there (as a result <i>not</i> of fluency, but many fast-executed micro-processes), thus (hopefully) changing the view on what our modern, computational society actually does, and what is fair to expect from it.
+
+//Kek
