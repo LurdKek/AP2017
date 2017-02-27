@@ -26,6 +26,6 @@ Here the theme of this post "the throbber" is a good example. It is a direct ref
 Before coninuing, I wan't to adress one questin: Which came first, the hen or the egg?
 I.e. did this impatient culture we experience today come as a result of the fast-paced interfaces we experience today, or vice versa?
 
-If we assume the former, a look into the code of the throbber would also explain the actual process and reason of the throbber being there (as a result <i>not</i> of fluency, but many fast-executed micro-processes), thus (hopefully) changing the view on what our modern, computational society actually does, and what is fair to expect from it.
+If we assume the former, a look into the code of the throbber would also explain the actual process and reason of the throbber being there (as a result <i>not</i> of fluency, but many fast-executed micro-processes, forcing the throbber to load each time there is a small gap between the execution of one of these), thus (hopefully) changing the view on what our modern, computational society actually does, and what is fair to expect from it.
 
 //Kek
