@@ -1,4 +1,4 @@
-<b><h1> Trees & Tullips </h1></b>
+<b><h1> Trees & Tulips </h1></b>
 Assignment mini_ex04 for Aesthetic Programming course at AU
 <b>Link:</b> https://lurdkek.github.io/AP2017/miniex04
 
