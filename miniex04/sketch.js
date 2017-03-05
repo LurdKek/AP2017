@@ -38,7 +38,7 @@ function draw() {
     translate(width/2, height/2);
     fill(255, 100);
     textSize(40);
-    text("Trees & Tullips", -150, 0);
+    text("Trees & Tulips", -150, 0);
     textSize(20);
     text("See how many trees or tulips u can grow", -200, 25);
     pop();
@@ -90,7 +90,7 @@ function draw() {
 
 
     
-    
+ //EASTER-EGG FRACTAL TREE!!!!   
     
     
     /*var angle = PI / 4;
