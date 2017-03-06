@@ -2,7 +2,7 @@
 Assignment mini_ex04 for Aesthetic Programming course at AU
 <b>Link:</b> https://lurdkek.github.io/AP2017/miniex04
 
-![screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/Capture03.PNG?raw=true);
+![screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex04/Capture03.PNG?raw=true);
 
 <b><h2> About </b></h2>
 <i>Trees & Tulips</i> is an attempt to demonstrate input- and output mechanisms in javascript; also referred to as cybernetics.
