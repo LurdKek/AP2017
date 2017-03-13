@@ -49,6 +49,7 @@ function draw() {
     textSize(15);
     text("UP-ARROW = Grow tulips, DOWN-ARROW = Grow trees", 250, 525);
     text("Be cautious towards the color of the ground. Grayer ground equals less nutritious ground; and life can't flourish without nutritions.", 50, 550);
+    pop();
     
     //Flowers Draw
     for (i = 0; i < flowers.length; i++) {
