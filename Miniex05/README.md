@@ -7,8 +7,9 @@ This is an attempt to make a tell-tale-rpg, made in collaboration with GitHub us
 The thought was to play with the thought of materiality on a computer versus on a book, regarding classic tell-tale-rpg's.
 The old fashioned way of writing books, also requires a lot of scrolling through pages (back and forth) in the book,
 also making it possible to "sneak-peak" on pages that you are not directed to through the books' narrative.
-With such a form of tell-tale implemented into an itneractive machine, capable of "hiding away" the parts/choices/pages of the inter-active
+With such a form of tell-tale implemented into an itneractive machine, capable of "hiding away" the parts/choices/pages of the interactive
 tell-tale book, it makes it possible for the writer/narrator to strictly-force constraint the reader as the narrator pleases.
+As an aspect of this, it is also itneresting to look at this on a broader scale, i.e. society. How may coding (and code-illiteracy) become a way of means for insitutions, coorporations or individuals to utilize this illiteracy to control the narrative, without the possibility for outsiders (at least those who are illiterate in the udnerstanding of codes) or those directly inflicted, to actually "see the other pages" behind their own story - increasingly narrated by interactive networks made on coded software.
 
 <b>CONTROLS: press 1 or 2 or 3 (stated in the tell-tale game) for choices!</b>
 
