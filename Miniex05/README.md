@@ -10,7 +10,7 @@ also making it possible to "sneak-peak" on pages that you are not directed to th
 With such a form of tell-tale implemented into an itneractive machine, capable of "hiding away" the parts/choices/pages of the inter-active
 tell-tale book, it makes it possible for the writer/narrator to strictly-force constraint the reader as the narrator pleases.
 
-<b>press 1 or 2 or 3 (stated in the tell-tale game)
+<b>CONTROLS: press 1 or 2 or 3 (stated in the tell-tale game) for choices!</b>
 
 
 The code is made by "switch statements" and by uploading our text-documents into an assets-folder, from where we made p5.js load
