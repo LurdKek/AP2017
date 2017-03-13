@@ -4,7 +4,7 @@ var button;
 function setup() {
     noCanvas();
     lexicon = new RiLexicon();
-    input = createInput('it was a dark and stormy night.');
+    input = createInput('How has you day been little teddybear?');
     button = createButton("submit");    
     input.changed(processRita);
     button.mousePressed(processRita);
