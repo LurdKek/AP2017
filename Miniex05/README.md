@@ -3,7 +3,7 @@
 <b>Link to <i>Adventure</i>:</b>https://lurdkek.github.io/AP2017/Miniex05/The%20Adventure%20of%20John%20Doe/
 <b>Link to simple RiTa code:</b>https://lurdkek.github.io/AP2017/Miniex05/SimpleRiTa/
 
-This is an attempt to make a tell-tale-rpg, made in collaboration with GitHub user <u><i>Duendue</i></u>.
+This is an attempt to make a tell-tale-rpg, made in collaboration with GitHub user <b><i>Duendue</i></b>.
 The thought was to play with the thought of materiality on a computer versus on a book, regarding classic tell-tale-rpg's.
 The old fashioned way of writing books, also requires a lot of scrolling through pages (back and forth) in the book,
 also making it possible to "sneak-peak" on pages that you are not directed to through the books' narrative.
