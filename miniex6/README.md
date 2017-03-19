@@ -1,5 +1,5 @@
 <b><h3>Link: https://lurdkek.github.io/AP2017/miniex6/</h3></b>
-[screenshot](
+[screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex6/Capture06.PNG?raw=true)
 SPLASH: This is an attempt to make some generative art. It is done by "splashing" paint onmto the canvas following three rules: Vellocity, gravity and the number of splashes shooting up at a time.
 By time the canvas will get painted completely over, and a refresh of the page is necessary. If i have the time I will add sliders to adjust these three rules, so it is possible to easier see the differnce of the outcome.
 
