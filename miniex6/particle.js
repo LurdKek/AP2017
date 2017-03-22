@@ -8,7 +8,7 @@ function Particle(x, y, hu, firework) { //Single particles
         this.vel = createVector(0, random(-19, -2));
     } else {
         this.vel = p5.Vector.random2D();
-        this.vel.mult(random(2, 55)); //Try changing the two values here. It gives interesting results to the explosion of the fireworks.
+        this.vel.mult(random(50, 55)); //Try changing the two values here. It gives interesting results to the explosion of the fireworks.
     }
     this.pos = createVector(x, y);
 
