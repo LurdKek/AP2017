@@ -1,5 +1,6 @@
 <h1>Aaal righty - Here's my checkbox snake-game. Enjoy!</h1>
-[Click here to play](https://lurdkek.github.io/AP2017/miniex07/)
+<b>Click here to play:</b>https://lurdkek.github.io/AP2017/miniex07/
+
 
 
 So yeah, a snake-game made on checkboxes. The process was simple in theory, but kind of difficult to actually make work.
