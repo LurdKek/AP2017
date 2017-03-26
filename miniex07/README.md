@@ -1,7 +1,6 @@
 <h1>Aaal righty - Here's my checkbox snake-game. Enjoy!</h1>
 <b>Click here to play:</b>https://lurdkek.github.io/AP2017/miniex07/
-
-
+[screenshot!](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex07/Capture07.PNG?raw=true)
 
 So yeah, a snake-game made on checkboxes. The process was simple in theory, but kind of difficult to actually make work.
 First i coded a snake-game using rects, rows and collums (following Shiffman as well). Then I added a layer of checkboxes and a RGB threshold reader, that covnerts all white pixels on the standard-canvas to "checked boxes" in my "checkbox-canvas".
