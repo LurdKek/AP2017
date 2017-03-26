@@ -1,4 +1,7 @@
 <h1>Aaal righty - Here's my checkbox snake-game. Enjoy!</h1>
+[Click here to play](https://lurdkek.github.io/AP2017/miniex07/)
+
+
 So yeah, a snake-game made on checkboxes. The process was simple in theory, but kind of difficult to actually make work.
 First i coded a snake-game using rects, rows and collums (following Shiffman as well). Then I added a layer of checkboxes and a RGB threshold reader, that covnerts all white pixels on the standard-canvas to "checked boxes" in my "checkbox-canvas".
 Checkboxes are made using the .dom library.
