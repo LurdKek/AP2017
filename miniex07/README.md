@@ -13,7 +13,7 @@ A <b>HUGE</b> thanks to <i>Duendue</i> for helping me debugging the code - could
 
 
 <h2>Objects & p5.DOM</h2>
-Onjects is a very nice thing to use in javascript. It help organise the variables and also makes the overview of the code even more readable. Also objects and classes/constructor functions in seperate files helps to this overview even more, and is very easy to use once taught.
+Onjects is a very nice thing to use in javascript. It helps organise the variables and also makes the overview of the code even more readable. Also objects and classes/constructor functions in seperate files helps to this overview even more, and is very easy to use once taught.
 
 Objects in itself isn't something I like to use that mutch, but sometimes, when only using an "object" once, it can be usefull.
 Otherwise i tend to use classes/constructor functions, a because they add a lot of funtionability and the possibility to add behaviors and variables in a more dynamic way than objects does. The fact that objects are classified as a (meta)variable and constructor functions are more like a (meta)function which can also be pushed/sliced into/from arrays gives the use of constructor functions one more advatage over objects. But for simple, quick coding, objects are easy to use, but then again so are constructor functions/classes it's just another syntax being used.
