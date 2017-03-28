@@ -1,4 +1,4 @@
-<h1>Aaal righty - Here's my checkbox snake-game. Enjoy!</h1>
+<h1>Aaal righty - Here's my game: Check-Snek. Enjoy!</h1>
 <b>Click here to play:</b>https://lurdkek.github.io/AP2017/miniex07/
 
 ![screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex07/Capture07.PNG?raw=true);
