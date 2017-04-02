@@ -2,6 +2,7 @@ var ship;
 var asteroids = [];
 var lasers = [];
 var img;
+var hitTint = false;
 
 function preload() {
     img = loadImage("assets/heart.png");
@@ -20,6 +21,13 @@ function draw() {
 
     for (var i = 0; i < asteroids.length; i++) {
         if (ship.hits(asteroids[i])) {
+            ship.cr = random(255);
+            ship.cg = random(200);
+            ship.cb = random(245);
+            asteroids[i].cr = random(255);
+            asteroids[i].cg = random(200);
+            asteroids[i].cb = random(245);
+
             console.log('oops!'); //What happens when ship is hit by asteroid
         }
         asteroids[i].render();
