@@ -6,7 +6,13 @@ I follow Daniel Schiffmans tutorial on asteroids (Link:   ). Then I added a smal
 
 I also added music for the mood.
 
+<h3>Instructions:</h3>
+<i>Move around the map using left- and right-arrow to turn the triangular vehicle, and use up-arrow to boost vehicle.
+USe spacebar to <b>fire lazers at the asteroids.</b></i>
+
+<h3>Screenshot:</h3>
+![screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex08/Capture08.PNG?raw=true)
 
 <h3>Flowchart:</h3>
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/LurdKek/AP2017/blob/gh-pages/miniex08/flowchart.png?raw=true)
+
