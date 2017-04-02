@@ -7,4 +7,6 @@ I follow Daniel Schiffmans tutorial on asteroids (Link:   ). Then I added a smal
 I also added music for the mood.
 
 
-</h3>Flowchart:</h3>
+<h3>Flowchart:</h3>
+![screenshot]()
+![screenshot]()
