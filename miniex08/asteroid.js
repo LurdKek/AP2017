@@ -9,7 +9,9 @@ function Asteroid(pos, r) {
     } else {
         this.r = random(15, 50);
     }
-
+    this.cr = 255;
+    this.cg = 255;
+    this.cb = 255;
     this.vel = p5.Vector.random2D();
     this.total = floor(random(5, 15));
     this.offset = [];
@@ -24,20 +26,21 @@ function Asteroid(pos, r) {
     this.render = function () {
         push();
         translate(this.pos.x, this.pos.y);
-
+        tint(random(100, 200), random(50), random(255))
         image(img, 50, 50);
-        stroke(255);
+        strokeWeight(5);
+        stroke(this.cr, this.cg, this.cb);
         noFill();
-        ellipse(0, 0, this.r * 2);
-        //        beginShape();
-        //        for (var i = 0; i < this.total; i++) {
-        //            var angle = map(i, 0, this.total, 0, TWO_PI);
-        //            var r = this.r + this.offset[i];
-        //            var x = r * cos(angle);
-        //            var y = r * sin(angle);
-        //            vertex(x, y);
-        //        }
-        //        endShape(CLOSE);
+        //        ellipse(0, 0, this.r * 2);
+        beginShape();
+        for (var i = 0; i < this.total; i++) {
+            var angle = map(i, 0, this.total, 0, TWO_PI);
+            var r = this.r + this.offset[i];
+            var x = r * cos(angle);
+            var y = r * sin(angle);
+            vertex(x, y);
+        }
+        endShape(CLOSE);
         pop();
 
 
