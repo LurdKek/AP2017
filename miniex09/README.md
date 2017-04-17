@@ -1,4 +1,4 @@
-<h1>Shit doesn't work - gee, thanks GitHub...</h1>
+<h1>Shiieeet doesn't work - gee, thanks GitHub...</h1>
 
 DOWNLOAD THE .Zip INSTEAD. IT (might) NOT CONTAIN ANY VIRUS.... huehuehue
 -It will work via your editor.
