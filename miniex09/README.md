@@ -1,6 +1,6 @@
 <h1>Shit doesn't work - gee, thanks GitHub...</h1>
 
-DOWNLOAD THIS .Zip INSTEAD. IT (might) NOT CONTAIN ANY VIRUS.... huehuehue
+DOWNLOAD THE .Zip INSTEAD. IT (might) NOT CONTAIN ANY VIRUS.... huehuehue
 
 <h2>On API's</h2>
 API's are a lot of fun to work with (once you get that shiet to work proberly). As I see it it has a lot of potential.
