@@ -3,6 +3,9 @@
 DOWNLOAD THE .Zip INSTEAD. IT (might) NOT CONTAIN ANY VIRUS.... huehuehue
 -It will work via your editor.
 
+<h2>About this API</h2>
+The API for this code is taken from openweatherdata.com, and portraits different aspects of the weather. Being busy during this easter, I simply followed Schiffmans video and made my own alterations.
+
 <h2>On API's</h2>
 API's are a lot of fun to work with (once you get that shiet to work proberly). As I see it it has a lot of potential.
 Also I think it is important (as with most other software) to remember that the API-data is always pulled from somewhere, and going through an interface that may act as a filter.
